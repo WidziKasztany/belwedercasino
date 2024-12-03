@@ -1,0 +1,37 @@
+{
+  "case1": {
+    "name": "Skrzynia",
+    "price": 99.75,
+    "drops": "CASE100PLN",
+    "image": "/case-cyber.png",
+    "firebg": false
+  },
+  "case2": {
+    "name": "Skrzynia 2",
+    "price": 99.75,
+    "drops": "CASE100PLN",
+    "image": "/case-vip.png",
+    "firebg": false
+  },
+  "case3": {
+    "name": "Skrzynia 3",
+    "price": 99.75,
+    "drops": "CASE100PLN",
+    "image": "/case-ak.png",
+    "firebg": false
+  },
+  "case4": {
+    "name": "Skrzynia 4",
+    "price": 299.75,
+    "drops": "CASE100PLN",
+    "image": "/case-awp.png",
+    "firebg": false
+  },
+  "case5": {
+    "name": "Skrzynia 5",
+    "price": 199.75,
+    "drops": "CASE100PLN",
+    "image": "/case-awp.png",
+    "firebg": true
+  }
+}

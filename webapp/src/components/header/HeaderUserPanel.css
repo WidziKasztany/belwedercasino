@@ -1,0 +1,63 @@
+header .usersection .user-panel {
+  z-index: -1;
+  position: absolute;
+  right: 0;
+  width: 260px;
+  height: 150px;
+  background: #333;
+  outline: 1px solid #444;
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.5);
+  border-radius: 15px;
+
+  transition-duration: 0.2s;
+
+  opacity: 0%;
+  top: 0%;
+  transform: translateY(-100%);
+}
+header .usersection:hover .user-panel {
+  opacity: 100%;
+  top: 100%;
+  transform: translateY(0%);
+}
+
+header .usersection .user-panel .btn {
+  padding: 5px 15px;
+  background: #333;
+  outline: 1px solid #555;
+  border-radius: 5px;
+  user-select: none;
+  margin: 8px 5px;
+  transition-duration: 0.2s;
+  height: min-content;
+  width: max-content;
+}
+header .usersection .user-panel .btn:hover {
+  outline: 1px solid #999;
+  background: #444;
+  cursor: pointer;
+}
+header .usersection .user-panel .btn.logout {
+  background: #433;
+  outline: 1px solid #655;
+}
+header .usersection .user-panel .btn.logout:hover {
+  outline: 1px solid #f99;
+  background: #633;
+}
+header .usersection .user-panel .bal {
+  margin: 10px 20px;
+}
+
+header .usersection .user-panel .bal h2 {
+  font-weight: normal;
+  font-size: 20px;
+}
+
+header .usersection .user-panel .bottom {
+  display: inline-flex;
+  position: absolute;
+  bottom: 5px;
+  left: 50%;
+  transform: translateX(-50%);
+}

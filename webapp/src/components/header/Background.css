@@ -1,0 +1,67 @@
+header .background {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+}
+header .background .container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  height: 100%;
+  width: 100%;
+  max-width: 1280px;
+
+  overflow: hidden;
+}
+header .background .rows {
+  position: absolute;
+  inset: 0;
+}
+header .background .row {
+  position: relative;
+  width: 100%;
+  height: calc(100% / 3);
+}
+header .background .squares {
+  position: absolute;
+  inset: 0;
+  display: inline-flex;
+}
+header .background .square {
+  position: relative;
+  height: 100%;
+  aspect-ratio: 1;
+}
+header .background .square .middle {
+  position: absolute;
+  inset: 1px;
+  opacity: 0;
+  background-color: rgba(255, 255, 100, 0.2);
+  animation: header-bg-anim 8s linear infinite forwards;
+}
+@keyframes header-bg-anim {
+  0% {
+    opacity: 0;
+  }
+  5% {
+    opacity: 1;
+  }
+  30%,
+  100% {
+    opacity: 0;
+  }
+}
+header .background .overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to right,
+    #333,
+    transparent,
+    transparent,
+    transparent,
+    #333
+  );
+}

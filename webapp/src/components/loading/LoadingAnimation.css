@@ -1,0 +1,43 @@
+.loading {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100px;
+  height: 100px;
+}
+
+.loading > .square1,
+.loading > .square2 {
+  position: absolute;
+  width: 35%;
+  height: 35%;
+
+  background-color: rgba(0, 0, 0, 0.2);
+  animation: loading-anim 1s linear 0s infinite;
+}
+.loading > .square2 {
+  animation-delay: -0.5s;
+}
+
+@keyframes loading-anim {
+  0% {
+    left: 0%;
+    top: 0%;
+  }
+  25% {
+    left: 65%;
+    top: 0;
+  }
+  50% {
+    left: 65%;
+    top: 65%;
+  }
+  75% {
+    left: 0;
+    top: 65%;
+  }
+  100% {
+    left: 0%;
+    top: 0%;
+  }
+}

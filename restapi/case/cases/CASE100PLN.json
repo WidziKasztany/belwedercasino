@@ -1,0 +1,669 @@
+{
+  "items": [
+    {
+      "id": "74e9c3485dfbcbe3c9ff0c9b901b1454",
+      "productID": 105391,
+      "url": "/skins/product/Bayonet-Doppler-Phase-3",
+      "fullTitle": "★ Bayonet | Doppler  - Phase 3",
+      "title": "★ Bayonet",
+      "subtitle": "Doppler - Phase 3",
+      "phase": null,
+      "icon": "https://cdn.key-drop.com/csgo_icons/images/53/53f265ccbf46c093a8911e1dd85c5ce3.png?v3",
+      "color": "gold",
+      "pfPercent": 0.009,
+      "pf": [
+        {
+          "rarity": "FN",
+          "price": 4101.8,
+          "intervalFrom": 99992,
+          "intervalTo": 100000,
+          "odds": 0.009
+        }
+      ]
+    },
+    {
+      "id": "2d69b3d306501f3eccc1ca3e6fa3fdb4",
+      "productID": 12426,
+      "url": "/skins/product/Classic-Knife-Fade",
+      "fullTitle": "★ Classic Knife | Fade",
+      "title": "★ Classic Knife",
+      "subtitle": "Fade",
+      "phase": null,
+      "icon": "https://cdn.key-drop.com/csgo_icons/images/8b/8b76439cbef72f149269dd93797ea865.png?v3",
+      "color": "gold",
+      "pfPercent": 0.013,
+      "pf": [
+        {
+          "rarity": "FN",
+          "price": 3736.95,
+          "intervalFrom": 99979,
+          "intervalTo": 99991,
+          "odds": 0.013
+        }
+      ]
+    },
+    {
+      "id": "55ee79bd7b2df0e67445008bacb0736c",
+      "productID": 105477,
+      "url": "/skins/product/Flip-Knife-Doppler-Phase-1",
+      "fullTitle": "★ Flip Knife | Doppler  - Phase 1",
+      "title": "★ Flip Knife",
+      "subtitle": "Doppler - Phase 1",
+      "phase": null,
+      "icon": "https://cdn.key-drop.com/csgo_icons/images/02/02c308e67ba78f4ac4aaa13535e67958.png?v3",
+      "color": "gold",
+      "pfPercent": 0.023,
+      "pf": [
+        {
+          "rarity": "FN",
+          "price": 3236.5,
+          "intervalFrom": 99956,
+          "intervalTo": 99978,
+          "odds": 0.023
+        }
+      ]
+    },
+    {
+      "id": "ffad7a728f237ef0bf9b300eb4d66794",
+      "productID": 12195,
+      "url": "/skins/product/Bayonet-Lore",
+      "fullTitle": "★ Bayonet | Lore",
+      "title": "★ Bayonet",
+      "subtitle": "Lore",
+      "phase": null,
+      "icon": "https://cdn.key-drop.com/csgo_icons/images/f4/f46802b60af6798a8f4416d179d0ed47.png?v3",
+      "color": "gold",
+      "pfPercent": 0.079,
+      "pf": [
+        {
+          "rarity": "FT",
+          "price": 2844.9,
+          "intervalFrom": 99877,
+          "intervalTo": 99955,
+          "odds": 0.079
+        }
+      ]
+    },
+    {
+      "id": "14fac4be126aa5ff7b14af87935a2cd5",
+      "productID": 12662,
+      "url": "/skins/product/Flip-Knife-Tiger-Tooth",
+      "fullTitle": "★ Flip Knife | Tiger Tooth",
+      "title": "★ Flip Knife",
+      "subtitle": "Tiger Tooth",
+      "phase": null,
+      "icon": "https://cdn.key-drop.com/csgo_icons/images/d1/d1291bf6035aa8224884aa6eb3856858.png?v3",
+      "color": "gold",
+      "pfPercent": 0.106,
+      "pf": [
+        {
+          "rarity": "FN",
+          "price": 2421,
+          "intervalFrom": 99771,
+          "intervalTo": 99876,
+          "odds": 0.106
+        }
+      ]
+    },
+    {
+      "id": "afab139b0be953bdd6ff837a80499258",
+      "productID": 77183,
+      "url": "/skins/product/Sport-Gloves-Scarlet-Shamagh",
+      "fullTitle": "★ Sport Gloves | Scarlet Shamagh",
+      "title": "★ Sport Gloves",
+      "subtitle": "Scarlet Shamagh",
+      "phase": null,
+      "icon": "https://cdn.key-drop.com/csgo_icons/images/95/95b57e5e3cfca7757e2edae8e6ea9c16.png?v3",
+      "color": "gold",
+      "pfPercent": 0.109,
+      "pf": [
+        {
+          "rarity": "FT",
+          "price": 1963.65,
+          "intervalFrom": 99662,
+          "intervalTo": 99770,
+          "odds": 0.109
+        }
+      ]
+    },
+    {
+      "id": "1c74d40ab73532acae0a1a44927321a5",
+      "productID": 104835,
+      "url": "/skins/product/Glock-18-Gamma-Doppler-Phase-4",
+      "fullTitle": "Glock-18 | Gamma Doppler  - Phase 4",
+      "title": "Glock-18",
+      "subtitle": "Gamma Doppler - Phase 4",
+      "phase": null,
+      "icon": "https://cdn.key-drop.com/csgo_icons/images/c3/c344f1879032499f7d0b90746245386c.png?v3",
+      "color": "red",
+      "pfPercent": 1.099,
+      "pf": [
+        {
+          "rarity": "FN",
+          "price": 432.45,
+          "intervalFrom": 98829,
+          "intervalTo": 99661,
+          "odds": 0.833
+        },
+        {
+          "rarity": "FT",
+          "price": 324.3,
+          "intervalFrom": 96344,
+          "intervalTo": 96609,
+          "odds": 0.266
+        }
+      ]
+    },
+    {
+      "id": "39f3471904cab8acf11f0e2ac2ce0b05",
+      "productID": 10,
+      "url": "/skins/product/AK-47-Asiimov",
+      "fullTitle": "AK-47 | Asiimov",
+      "title": "AK-47",
+      "subtitle": "Asiimov",
+      "phase": null,
+      "icon": "https://cdn.key-drop.com/csgo_icons/images/3d/3d6b4ac1c1dd329b8f735c63a2d72cb6.png?v3",
+      "color": "red",
+      "pfPercent": 2.085,
+      "pf": [
+        {
+          "rarity": "MW",
+          "price": 412.65,
+          "intervalFrom": 97088,
+          "intervalTo": 97950,
+          "odds": 0.863
+        },
+        {
+          "rarity": "FT",
+          "price": 196.25,
+          "intervalFrom": 87358,
+          "intervalTo": 88579,
+          "odds": 1.222
+        }
+      ]
+    },
+    {
+      "id": "10ac3e81d921d25545da1f23ac866aa8",
+      "productID": 84250,
+      "url": "/skins/product/AK-47-Nightwish",
+      "fullTitle": "AK-47 | Nightwish",
+      "title": "AK-47",
+      "subtitle": "Nightwish",
+      "phase": null,
+      "icon": "https://cdn.key-drop.com/csgo_icons/images/3d/3d92f93bca7736f39e104d9a15138713.png?v3",
+      "color": "red",
+      "pfPercent": 6.679,
+      "pf": [
+        {
+          "rarity": "FN",
+          "price": 407.2,
+          "intervalFrom": 97951,
+          "intervalTo": 98828,
+          "odds": 0.878
+        },
+        {
+          "rarity": "MW",
+          "price": 107.2,
+          "intervalFrom": 81300,
+          "intervalTo": 83531,
+          "odds": 2.232
+        },
+        {
+          "rarity": "FT",
+          "price": 50.95,
+          "intervalFrom": 58270,
+          "intervalTo": 61838,
+          "odds": 3.569
+        }
+      ]
+    },
+    {
+      "id": "8ee525ccbc63be142fd48344df24af78",
+      "productID": 76745,
+      "url": "/skins/product/Glock-18-Neo-Noir",
+      "fullTitle": "Glock-18 | Neo-Noir",
+      "title": "Glock-18",
+      "subtitle": "Neo-Noir",
+      "phase": null,
+      "icon": "https://cdn.key-drop.com/csgo_icons/images/ff/ff0a64f42b385c7b62aab059cf0e925c.png?v3",
+      "color": "red",
+      "pfPercent": 7.639,
+      "pf": [
+        {
+          "rarity": "FN",
+          "price": 341.2,
+          "intervalFrom": 96819,
+          "intervalTo": 97087,
+          "odds": 0.269
+        },
+        {
+          "rarity": "MW",
+          "price": 141.85,
+          "intervalFrom": 86836,
+          "intervalTo": 87357,
+          "odds": 0.522
+        },
+        {
+          "rarity": "FT",
+          "price": 64.15,
+          "intervalFrom": 66796,
+          "intervalTo": 73643,
+          "odds": 6.848
+        }
+      ]
+    },
+    {
+      "id": "c1a9dbd910fd45f6c08129d0433249ca",
+      "productID": 76907,
+      "url": "/skins/product/USP-S-The-Traitor",
+      "fullTitle": "USP-S | The Traitor",
+      "title": "USP-S",
+      "subtitle": "The Traitor",
+      "phase": null,
+      "icon": "https://cdn.key-drop.com/csgo_icons/images/a8/a8de7979f4d28af6ab2e1551e1f389bb.png?v3",
+      "color": "red",
+      "pfPercent": 7.807,
+      "pf": [
+        {
+          "rarity": "FN",
+          "price": 322.5,
+          "intervalFrom": 96610,
+          "intervalTo": 96818,
+          "odds": 0.209
+        },
+        {
+          "rarity": "MW",
+          "price": 107.95,
+          "intervalFrom": 79797,
+          "intervalTo": 81299,
+          "odds": 1.503
+        },
+        {
+          "rarity": "FT",
+          "price": 63.75,
+          "intervalFrom": 64405,
+          "intervalTo": 65500,
+          "odds": 1.096
+        },
+        {
+          "rarity": "BS",
+          "price": 48.75,
+          "intervalFrom": 49932,
+          "intervalTo": 54930,
+          "odds": 4.999
+        }
+      ]
+    },
+    {
+      "id": "beb5474018b18a37f25ea3fb6be037be",
+      "productID": 97,
+      "url": "/skins/product/AK-47-Neon-Rider",
+      "fullTitle": "AK-47 | Neon Rider",
+      "title": "AK-47",
+      "subtitle": "Neon Rider",
+      "phase": null,
+      "icon": "https://cdn.key-drop.com/csgo_icons/images/e8/e8079ea19a8dcf1e1577126cf725e9bf.png?v3",
+      "color": "red",
+      "pfPercent": 1.023,
+      "pf": [
+        {
+          "rarity": "FT",
+          "price": 301.9,
+          "intervalFrom": 95321,
+          "intervalTo": 96343,
+          "odds": 1.023
+        }
+      ]
+    },
+    {
+      "id": "761800d55d96ccaec93db7bf86d6b19c",
+      "productID": 104498,
+      "url": "/skins/product/AWP-Chrome-Cannon",
+      "fullTitle": "AWP | Chrome Cannon",
+      "title": "AWP",
+      "subtitle": "Chrome Cannon",
+      "phase": null,
+      "icon": "https://cdn.key-drop.com/csgo_icons/images/14/14d8cdc09e5e564c056f530da861f0e1.png?v3",
+      "color": "red",
+      "pfPercent": 1.223,
+      "pf": [
+        {
+          "rarity": "FT",
+          "price": 299.5,
+          "intervalFrom": 94098,
+          "intervalTo": 95320,
+          "odds": 1.223
+        }
+      ]
+    },
+    {
+      "id": "0294d24802ae2ac932a5592f96e21783",
+      "productID": 84321,
+      "url": "/skins/product/USP-S-Printstream",
+      "fullTitle": "USP-S | Printstream",
+      "title": "USP-S",
+      "subtitle": "Printstream",
+      "phase": null,
+      "icon": "https://cdn.key-drop.com/csgo_icons/images/ad/ad900a08828281d511691b19efbcdb48.png?v3",
+      "color": "red",
+      "pfPercent": 1.898,
+      "pf": [
+        {
+          "rarity": "FT",
+          "price": 210.45,
+          "intervalFrom": 92200,
+          "intervalTo": 94097,
+          "odds": 1.898
+        }
+      ]
+    },
+    {
+      "id": "5e38d1814d17c7e695a22c577d091007",
+      "productID": 348,
+      "url": "/skins/product/AWP-Man-o-war",
+      "fullTitle": "AWP | Man-o'-war",
+      "title": "AWP",
+      "subtitle": "Man-o'-war",
+      "phase": null,
+      "icon": "https://cdn.key-drop.com/csgo_icons/images/09/091dc2736c9d8dca208628b859bcb95e.png?v3",
+      "color": "red",
+      "pfPercent": 1.555,
+      "pf": [
+        {
+          "rarity": "FT",
+          "price": 210.05,
+          "intervalFrom": 90645,
+          "intervalTo": 92199,
+          "odds": 1.555
+        }
+      ]
+    },
+    {
+      "id": "effe833a119fa312a1adf7ac11c9d86d",
+      "productID": 1902,
+      "url": "/skins/product/M4A4-Neo-Noir",
+      "fullTitle": "M4A4 | Neo-Noir",
+      "title": "M4A4",
+      "subtitle": "Neo-Noir",
+      "phase": null,
+      "icon": "https://cdn.key-drop.com/csgo_icons/images/6b/6b9387171fe5bbe8d4b8ea97bf2e8855.png?v3",
+      "color": "red",
+      "pfPercent": 8.947,
+      "pf": [
+        {
+          "rarity": "FN",
+          "price": 199.05,
+          "intervalFrom": 89636,
+          "intervalTo": 90644,
+          "odds": 1.009
+        },
+        {
+          "rarity": "FT",
+          "price": 37.45,
+          "intervalFrom": 15148,
+          "intervalTo": 23085,
+          "odds": 7.938
+        }
+      ]
+    },
+    {
+      "id": "018896d53cd24a6a1bb05891d3663806",
+      "productID": 3009,
+      "url": "/skins/product/P90-Death-by-Kitty",
+      "fullTitle": "P90 | Death by Kitty",
+      "title": "P90",
+      "subtitle": "Death by Kitty",
+      "phase": null,
+      "icon": "https://cdn.key-drop.com/csgo_icons/images/a7/a7ec051ead4260692d55ac2540a183e4.png?v3",
+      "color": "red",
+      "pfPercent": 1.056,
+      "pf": [
+        {
+          "rarity": "FT",
+          "price": 197.4,
+          "intervalFrom": 88580,
+          "intervalTo": 89635,
+          "odds": 1.056
+        }
+      ]
+    },
+    {
+      "id": "673cba89b50e23e3d096f29c6d4a133c",
+      "productID": 84324,
+      "url": "/skins/product/AWP-Chromatic-Aberration",
+      "fullTitle": "AWP | Chromatic Aberration",
+      "title": "AWP",
+      "subtitle": "Chromatic Aberration",
+      "phase": null,
+      "icon": "https://cdn.key-drop.com/csgo_icons/images/9c/9c7fb563941a7f37d64c6a2e471152d7.png?v3",
+      "color": "red",
+      "pfPercent": 8.429,
+      "pf": [
+        {
+          "rarity": "FN",
+          "price": 105,
+          "intervalFrom": 76875,
+          "intervalTo": 79796,
+          "odds": 2.922
+        },
+        {
+          "rarity": "MW",
+          "price": 63.65,
+          "intervalFrom": 65501,
+          "intervalTo": 66795,
+          "odds": 1.295
+        },
+        {
+          "rarity": "FT",
+          "price": 42.1,
+          "intervalFrom": 37105,
+          "intervalTo": 41316,
+          "odds": 4.212
+        }
+      ]
+    },
+    {
+      "id": "d557ae44cec511ca3b7326bf1674590f",
+      "productID": 1827,
+      "url": "/skins/product/M4A4-Buzz-Kill",
+      "fullTitle": "M4A4 | Buzz Kill",
+      "title": "M4A4",
+      "subtitle": "Buzz Kill",
+      "phase": null,
+      "icon": "https://cdn.key-drop.com/csgo_icons/images/6c/6cf2293ab252ee5f8e44e60752634540.png?v3",
+      "color": "red",
+      "pfPercent": 7.702,
+      "pf": [
+        {
+          "rarity": "MW",
+          "price": 72.65,
+          "intervalFrom": 73644,
+          "intervalTo": 74515,
+          "odds": 0.872
+        },
+        {
+          "rarity": "FT",
+          "price": 45.15,
+          "intervalFrom": 44012,
+          "intervalTo": 46376,
+          "odds": 2.365
+        },
+        {
+          "rarity": "BS",
+          "price": 40.2,
+          "intervalFrom": 26948,
+          "intervalTo": 31412,
+          "odds": 4.465
+        }
+      ]
+    },
+    {
+      "id": "a8b2a77a95169b3ea324863d8973c6c0",
+      "productID": 1804,
+      "url": "/skins/product/M4A1-S-Nightmare",
+      "fullTitle": "M4A1-S | Nightmare",
+      "title": "M4A1-S",
+      "subtitle": "Nightmare",
+      "phase": null,
+      "icon": "https://cdn.key-drop.com/csgo_icons/images/a9/a929b63366cfa201bda9804af49b06d9.png?v3",
+      "color": "pink",
+      "pfPercent": 8.996,
+      "pf": [
+        {
+          "rarity": "MW",
+          "price": 115.3,
+          "intervalFrom": 84643,
+          "intervalTo": 86835,
+          "odds": 2.193
+        },
+        {
+          "rarity": "FT",
+          "price": 54.9,
+          "intervalFrom": 63294,
+          "intervalTo": 64404,
+          "odds": 1.111
+        },
+        {
+          "rarity": "WW",
+          "price": 41.35,
+          "intervalFrom": 31413,
+          "intervalTo": 37104,
+          "odds": 5.692
+        }
+      ]
+    },
+    {
+      "id": "e49b11b316cc5031c4c1bd101a60bc5e",
+      "productID": 3440,
+      "url": "/skins/product/SG-553-Colony-IV",
+      "fullTitle": "SG 553 | Colony IV",
+      "title": "SG 553",
+      "subtitle": "Colony IV",
+      "phase": null,
+      "icon": "https://cdn.key-drop.com/csgo_icons/images/74/74ae1ca95a9d7a8a40ba5db3175cc987.png?v3",
+      "color": "pink",
+      "pfPercent": 7.145,
+      "pf": [
+        {
+          "rarity": "MW",
+          "price": 107.55,
+          "intervalFrom": 83532,
+          "intervalTo": 84642,
+          "odds": 1.111
+        },
+        {
+          "rarity": "FT",
+          "price": 49.55,
+          "intervalFrom": 54931,
+          "intervalTo": 58269,
+          "odds": 3.339
+        },
+        {
+          "rarity": "WW",
+          "price": 44.85,
+          "intervalFrom": 41317,
+          "intervalTo": 44011,
+          "odds": 2.695
+        }
+      ]
+    },
+    {
+      "id": "b8b82f51f1d5f7debad3baa78925abc9",
+      "productID": 81358,
+      "url": "/skins/product/SSG-08-Turbo-Peek",
+      "fullTitle": "SSG 08 | Turbo Peek",
+      "title": "SSG 08",
+      "subtitle": "Turbo Peek",
+      "phase": null,
+      "icon": "https://cdn.key-drop.com/csgo_icons/images/00/002949366ad41d2d7664ad4416ff1835.png?v3",
+      "color": "pink",
+      "pfPercent": 9.366,
+      "pf": [
+        {
+          "rarity": "FN",
+          "price": 104.15,
+          "intervalFrom": 74849,
+          "intervalTo": 76874,
+          "odds": 2.026
+        },
+        {
+          "rarity": "MW",
+          "price": 52,
+          "intervalFrom": 61839,
+          "intervalTo": 63293,
+          "odds": 1.455
+        },
+        {
+          "rarity": "FT",
+          "price": 33.25,
+          "intervalFrom": 9263,
+          "intervalTo": 15147,
+          "odds": 5.885
+        }
+      ]
+    },
+    {
+      "id": "2ce1ac955d4c2dc015f5f1fc1c449f83",
+      "productID": 1032,
+      "url": "/skins/product/FAMAS-Eye-of-Athena",
+      "fullTitle": "FAMAS | Eye of Athena",
+      "title": "FAMAS",
+      "subtitle": "Eye of Athena",
+      "phase": null,
+      "icon": "https://cdn.key-drop.com/csgo_icons/images/12/1298a69329e602ac97a80891f990ff66.png?v3",
+      "color": "pink",
+      "pfPercent": 8.486,
+      "pf": [
+        {
+          "rarity": "FN",
+          "price": 88.25,
+          "intervalFrom": 74516,
+          "intervalTo": 74848,
+          "odds": 0.333
+        },
+        {
+          "rarity": "MW",
+          "price": 49.6,
+          "intervalFrom": 46377,
+          "intervalTo": 49931,
+          "odds": 3.555
+        },
+        {
+          "rarity": "FT",
+          "price": 32.65,
+          "intervalFrom": 4665,
+          "intervalTo": 9262,
+          "odds": 4.598
+        }
+      ]
+    },
+    {
+      "id": "61226b0c3ba9fbc321fa9f3ed06592ea",
+      "productID": 1784,
+      "url": "/skins/product/M4A1-S-Leaded-Glass",
+      "fullTitle": "M4A1-S | Leaded Glass",
+      "title": "M4A1-S",
+      "subtitle": "Leaded Glass",
+      "phase": null,
+      "icon": "https://cdn.key-drop.com/csgo_icons/images/e7/e7c89a4c2d6033a18f1faedb5a6147bf.png?v3",
+      "color": "pink",
+      "pfPercent": 8.526,
+      "pf": [
+        {
+          "rarity": "MW",
+          "price": 38.85,
+          "intervalFrom": 23086,
+          "intervalTo": 26947,
+          "odds": 3.862
+        },
+        {
+          "rarity": "FT",
+          "price": 26.25,
+          "intervalFrom": 1,
+          "intervalTo": 4664,
+          "odds": 4.664
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+._form {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 20px 40px;
+  margin-top: 50px;
+  background-color: #333;
+  width: 240px;
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+._form > h1 {
+  text-align: center;
+  font-size: 22px;
+  line-height: 22px;
+  margin-bottom: 30px;
+}
+._form > p {
+  color: #999;
+  font-size: 15px;
+}
+._form > p.error {
+  color: red;
+  text-align: center;
+  margin-bottom: 20px;
+}
+._form > p.info {
+  color: lime;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+._form > input {
+  width: calc(100% - 20px);
+  outline: 1px solid #555;
+  border-radius: 5px;
+  border: none;
+  background-color: transparent;
+  color: white;
+  padding: 5px 10px;
+  font-size: 16px;
+  font-weight: lighter;
+  margin-bottom: 4px;
+}
+._form > .btn {
+  margin-top: 20px;
+  width: 100%;
+  outline: 1px solid #555;
+  border-radius: 5px;
+  border: none;
+  background-color: transparent;
+  color: white;
+  padding: 5px 0px;
+  font-size: 16px;
+  text-align: center;
+  font-weight: normal;
+  margin-bottom: 10px;
+  transition-duration: 0.2s;
+}
+._form > .btn:hover {
+  outline-color: #999;
+  cursor: pointer;
+}
+._form > a:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}

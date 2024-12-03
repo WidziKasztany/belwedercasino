@@ -1,0 +1,9 @@
+#loginpage {
+  width: calc(100% - 4rem);
+  max-width: 1280px;
+  margin: 2rem 0;
+
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}

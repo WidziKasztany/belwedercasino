@@ -1,0 +1,49 @@
+#appbg {
+  position: fixed;
+  z-index: -1;
+  inset: 0;
+}
+#appbg > .appbgimg {
+  position: absolute;
+  inset: 0;
+  
+  background-image: url("/bg.jpg");
+  background-size: cover;
+  background-position: center;
+  opacity: 0.2;
+  filter: hue-rotate(210deg);
+}
+#appbg .triangle {
+  position: absolute;
+  background-color: #282828;
+  width: 50vmin;
+  height: 50vmin;
+  opacity: 0.4;
+}
+#appbg .triangle1 {
+  left: 10%;
+  top: 30%;
+  clip-path: polygon(0% 20%, 62% 12%, 77% 54%);
+}
+#appbg .triangle2 {
+  left: 50%;
+  bottom: 10%;
+  clip-path: polygon(0% 30%, 26% 85%, 63% 26%);
+}
+#appbg .triangle3 {
+  right: 0%;
+  bottom: 50%;
+  clip-path: polygon(65% 26%, 22% 31%, 75% 96%);
+}
+#appbg .finishinggradient {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to bottom, transparent, #262422);
+}
+#appbg .finishingnoise {
+  position: absolute;
+  inset: 0;
+  background: url("/noise.svg");
+  background-repeat: repeat;
+  opacity: 0.1;
+}

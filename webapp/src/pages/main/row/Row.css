@@ -1,0 +1,10 @@
+
+#mainpage .row {
+    width: 100%;
+    margin-bottom: 20px;
+}
+#mainpage .row > .wrapper {
+    width: 100%;
+    aspect-ratio: 45/10;
+    position: relative;
+}

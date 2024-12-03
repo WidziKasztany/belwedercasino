@@ -1,0 +1,93 @@
+header .content {
+  position: absolute;
+  width: calc(100% - 4rem);
+  height: 100%;
+  max-width: 1280px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+header .content .usersection {
+  position: absolute;
+  right: 0;
+  top: 0;
+  height: 100%;
+  display: inline-flex;
+}
+header .content .button {
+  position: relative;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  padding: 5px 15px;
+  background: #333;
+  outline: 1px solid #555;
+  border-radius: 5px;
+  user-select: none;
+  margin-left: 10px;
+  transition-duration: 0.2s;
+  height: min-content;
+}
+header .content .button:hover {
+  outline: 1px solid #999;
+  cursor: pointer;
+}
+
+header .content .name {
+  line-height: 50px;
+  font-size: 24px;
+  position: relative;
+  user-select: none;
+  width: fit-content;
+  cursor: pointer;
+}
+header .content .name::before {
+  display: block;
+  content: '';
+  position: absolute;
+
+  left: 0;
+  width: 0%;
+  bottom: 0;
+  height: 5px;
+  
+  background-color: gold;
+  transition-duration: 0.2s;
+}
+header .content .name:hover:before {
+  width: 100%;
+}
+
+header .content .usernamediv {
+  position: relative;
+  height: min-content;
+  top: 50%; transform: translateY(-50%);
+}
+header .content .usernamediv p {
+  color: white;
+  font-weight: bold;
+  height: min-content;
+  position: relative;
+  font-size: 14px;
+  line-height: 14px;
+  width: 100%;
+  text-align: center;
+}
+header .content .usernamediv p:nth-child(2) {
+  font-weight: 600;
+  font-size: 12px;
+}
+header .content .userimg {
+  height: 70%;
+  position: relative;
+  top: 50%; transform: translateY(-50%);
+  margin-left: 10px;
+  background-color: #333;
+  border-radius: 50%;
+}
+
+header .content .userinfo {
+  position: relative;
+  display: inline-flex;
+  padding: 0 10px;
+  user-select: none;
+}

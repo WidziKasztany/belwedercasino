@@ -1,0 +1,98 @@
+#mainpage {
+    width: calc(100% - 4rem);
+    max-width: 1280px;
+    margin: 2rem 0;
+
+    position: relative;
+    left: 50%; transform: translateX(-50%);
+}
+
+#mainpage .gamebanner {
+    position: absolute;
+    top: 0;
+    width: calc(100% / 5 - 20px * 4 / 5);
+    height: 100%;
+    outline: 1px solid #444;
+    background: #2d2d2d;
+    border-radius: 15px;
+    transition-duration: 0.2s;
+    box-shadow: 0px 0px 25px rgba(0,0,0,0.1);
+    overflow: hidden;
+}
+#mainpage .gamebanner:hover {
+    cursor: pointer;
+    top: -2px;
+    outline: 1px solid #666;
+    box-shadow: 0px 0px 15px rgba(0,0,0,0.5);
+}
+#mainpage .gamebanner .background {
+    position: absolute;
+    inset: 0;
+    background-size: cover;
+    background-position: center;
+    filter: grayscale(0.65);
+    transition-duration: 0.2s;
+    opacity: 0.75;
+}
+#mainpage .gamebanner .background.saturate {
+    filter: grayscale(0.5) saturate(100%);
+}
+#mainpage .gamebanner:hover .background {
+    filter: grayscale(0);
+    opacity: 1;
+}
+#mainpage .gamebanner:hover .background.saturate {
+    filter: grayscale(0) saturate(300%);
+}
+#mainpage .gamebanner .imgCase {
+    position: absolute;
+    inset: 0;
+    background-size: contain;
+    background-position: center 45px;
+    background-repeat: no-repeat;
+    transition-duration: 0.2s;
+}
+#mainpage .gamebanner:hover .imgCase {
+    background-position: center 35px;
+}
+#mainpage .gamebanner .text {
+    position: absolute;
+    top: 6px;
+    font-size: 16px;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+#mainpage .gamebanner .price {
+    position: absolute;
+    bottom: 6px;
+    font-size: 16px;
+    width: 100%;
+    text-align: center;
+    color: white;
+    transition-duration: 0.2s;
+}
+#mainpage .gamebanner:hover .price {
+    bottom: 46px;
+    opacity: 0;
+}
+#mainpage .gamebanner .open {
+    position: absolute;
+    bottom: -32px;
+    font-size: 16px;
+    padding: 4px 10px;
+    outline: 1px solid rgba(128, 128, 128, 0.5);
+    color: white;
+    box-shadow: 0px 0px 8px black;
+    border-radius: 8px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: max-content;
+    transition-duration: 0.2s;
+}
+#mainpage .gamebanner:hover .open {
+    bottom: 8px;
+}
+#mainpage .gamebanner:hover .open:hover {
+    outline: 1px solid rgba(255, 255, 255, 0.75);
+}

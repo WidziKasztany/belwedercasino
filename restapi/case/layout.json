@@ -1,0 +1,42 @@
+{
+  "layout": [
+    { "type": "category", "color": "gold", "name": "Skrzynki Premium" },
+
+    {
+      "type": "row",
+      "elements": [
+        { "type": "case", "caseid": "case1" },
+        { "type": "case", "caseid": "case2" },
+        { "type": "case", "caseid": "case3" },
+        { "type": "case", "caseid": "case4" },
+        { "type": "case", "caseid": "case5" }
+      ]
+    },
+
+    { "type": "category", "color": "red", "name": "Inne Skrzynki" },
+
+    {
+      "type": "row",
+      "elements": [
+        { "type": "case", "caseid": "case1" },
+        { "type": "case", "caseid": "case2" },
+        { "type": "case", "caseid": "case3" },
+        { "type": "case", "caseid": "case4" },
+        { "type": "case", "caseid": "case5" }
+      ]
+    },
+
+    { "type": "category", "color": "red", "name": "Skrzynki Black Friday" },
+
+    {
+      "type": "row",
+      "elements": [
+        { "type": "case", "caseid": "case1" },
+        { "type": "case", "caseid": "case2" },
+        { "type": "case", "caseid": "case3" },
+        { "type": "case", "caseid": "case4" },
+        { "type": "case", "caseid": "case5" }
+      ]
+    }
+  ]
+}
